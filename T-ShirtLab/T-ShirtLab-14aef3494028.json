@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "t-shirtlab",
+  "private_key_id": "14aef3494028268341cdf38fe795dbb330bcb183",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEwAIBADANBgkqhkiG9w0BAQEFAASCBKowggSmAgEAAoIBAQDBX7qbbGpty9L2\nV/wEhmsgYCqWFN3IMeEpFfP0Ssv5X99LWgKBxZ65AqDNAbyw8wPl/yMhV0mJROUK\nkZfpfFy+pLCZPYUz7uDpvM9LAwIaFxgPrzudT4PJ5psCDB8nCFYPWYf6qq5oA8Xe\n/7g99VMjYDy5MXfNerzm+cI+4ncKTIsPbMmfIiWEWByPhHMMh8i5IBsCc2r0iQ4A\neLuoMAsq4jLZmrvZV2ftx/NCYk+ngxywoBDzTFf60Pex2GYE4v8/EJ5ubR5k8/ku\nvDk0/tSC130EtJ7U56aTvjiNI0PohwO7uXa12ddGThjzSX4+2CjvgWRt4Lhii2dZ\nEOt17iz7AgMBAAECggEBAKTFUDmNWOazrc/wyrKEYxXUO5VktFIYhnY+2X+ImGOm\nWJtZWBeB76xP2/qzhzfz6pd5HlMTkHph9RRbWOk/6bsck8oPjMfivU0NcEjHiGv4\nz6zVsONrVK2eTOiisYzN4p7zuBVUiIXi6SEKHtDUkIHtR/C5gQ7ajcn2eZih2bMw\naIKSHJyC4CK/J4b4/Dzr6utrdwBn9mTkgEdEZwV7OlFKeU9j+3tk4IhGe/T9edV2\nd4DmESSG5XFIKN+O2jy2/ZNXciOomdPXbcSFFWgFgbdp3e3tnvBC7IE6AF56Raoq\nZDLE+ooxyvKGsN2evjg0xwwAH3fCPkXRitBjxiVYKFECgYEA4DDYSMwAeXMDlmWY\nd5zyrxjTFHcIAFU8CIWcTMKm/cKMEA2TSyl/w5E+vNnegCf6FvCHgvlLy21rcgpr\nf/45Qm8tplh/OyTQiy7rqGCR33S4EJ/hQKV4rB7fmEJgfermhvPertTrG05SmnqA\npELpDXNej3aIH8W5W5cMRqq8GZMCgYEA3M+KcckSRnDE3FH1ZIpETYl6g3GlnWcr\n4X+8UaiawyrW3Bp5U/ukTGXIS7a9M7OhL7VoR5Y4cyxFb500JWWCwY4l3YPCuXZ5\nhjaz9vnrvJrNb8J4h+9T2q6jb43pvAughb4Bu2PolN0BbJ6D1ykSI6e1eMNaPLc+\nwTHiugztn/kCgYEAqGko4C6XIKSciksRaLE2wP/l+JaeJRniOgicbDFBHpkZfCmm\nfyzSdEfUmCsV8LGXNcpEEchR/qPYtddL/98qhlRcN3x9PyGdoyCBGIBKtFDKwHpJ\nzLVA3BNpJcifEZf2ymPB4RXC80U32iGyJzK4PUlwPFbvVObEIiBqsV8qZA8CgYEA\nx1vSIT1q9JIoCssshSOY23B+XmKjJmPZ6HRNcGSLph3tczerxzlxc1CJ8GICnMVX\niB1/EvL78HBOGKGUTRdDYMGYSlEF5DClM5n8DcZDIjuZs4efDwvzZ4M5KCS2nQLa\nYSXVpnxjptOKz6imXAJG0E5At9GYjSzcycziaRv3BvECgYEA3/RA5dOFQJCTzTUv\nlcHCjRDww5wwpXZ0IYpUfYsEtTZJYqyl+9CTHYXSdjAMD88oUBUJDOM7EpcLpFwa\nRSsGiBg2oyMzf3pbXJbWYqnZMDytlzEmgjxxntAk6jnFxfBQele1th+Fh4bzswLm\nMwu50wGyddoLk+0dTlrUaCKvK1g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "symbol-upload-service-account@t-shirtlab.iam.gserviceaccount.com",
+  "client_id": "111218487818232385743",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/symbol-upload-service-account%40t-shirtlab.iam.gserviceaccount.com"
+}
